@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
 
+/build/    #过滤整个build文件夹
+
 # generated files
 bin/
 gen/
