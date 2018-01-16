@@ -1,4 +1,4 @@
-package com.wtj.first;
+package com.wtj.teststart;
 
 import static org.junit.Assert.assertEquals;
 

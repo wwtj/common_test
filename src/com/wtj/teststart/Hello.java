@@ -1,4 +1,4 @@
-package com.wtj.first;
+package com.wtj.teststart;
 
 public class Hello {
 	
